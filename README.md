@@ -1,2 +1,2 @@
 # web-dev-practice
-“Web development exercises and mini-projects.”
+Web development exercises and mini-projects.
